@@ -12,7 +12,7 @@ public class SecurityController {
     private UserRepositoty repositoty;
     private PasswordEncoder passwordEncoder ;
     private AuthenticationManager authenticationManager ;
-    private JwtCore jwtCore;
+
 
 //
 //    @PostMapping
